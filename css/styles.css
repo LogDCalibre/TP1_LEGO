@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: rgb(209, 209, 209);
+}
+
+.main_page {
+    width: 650px;
+    margin: auto;
+    background-color: white;
+}
