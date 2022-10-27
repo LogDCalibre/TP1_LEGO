@@ -128,3 +128,8 @@ select {
     margin-left: 72px;
     margin-top: 12px;
 }
+
+.img_map {
+    width: 550px;
+    height: 300px;
+}
